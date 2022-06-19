@@ -1,0 +1,11 @@
+D:\ConsoleApp10\OwnDictionary.Models\bin\Debug\net5.0\OwnDictionary.Models.deps.json
+D:\ConsoleApp10\OwnDictionary.Models\bin\Debug\net5.0\OwnDictionary.Models.dll
+D:\ConsoleApp10\OwnDictionary.Models\bin\Debug\net5.0\ref\OwnDictionary.Models.dll
+D:\ConsoleApp10\OwnDictionary.Models\bin\Debug\net5.0\OwnDictionary.Models.pdb
+D:\ConsoleApp10\OwnDictionary.Models\obj\Debug\net5.0\OwnDictionary.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp10\OwnDictionary.Models\obj\Debug\net5.0\OwnDictionary.Models.AssemblyInfoInputs.cache
+D:\ConsoleApp10\OwnDictionary.Models\obj\Debug\net5.0\OwnDictionary.Models.AssemblyInfo.cs
+D:\ConsoleApp10\OwnDictionary.Models\obj\Debug\net5.0\OwnDictionary.Models.csproj.CoreCompileInputs.cache
+D:\ConsoleApp10\OwnDictionary.Models\obj\Debug\net5.0\OwnDictionary.Models.dll
+D:\ConsoleApp10\OwnDictionary.Models\obj\Debug\net5.0\ref\OwnDictionary.Models.dll
+D:\ConsoleApp10\OwnDictionary.Models\obj\Debug\net5.0\OwnDictionary.Models.pdb

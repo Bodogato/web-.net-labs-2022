@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b044a957-a86e-40e6-8ec7-782d6a056c7c": {
+      "ProjectGuid": "b044a957-a86e-40e6-8ec7-782d6a056c7c",
+      "DisplayName": "ConsoleApp9",
+      "ColorIndex": 0
+    },
+    "0ac788c3-1a70-4ab7-b538-88303de604a2": {
+      "ProjectGuid": "0ac788c3-1a70-4ab7-b538-88303de604a2",
+      "DisplayName": "MyDictionary.Models",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

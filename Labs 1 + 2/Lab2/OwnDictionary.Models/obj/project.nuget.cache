@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVF6OP2G+YAeFda5D4VCfagmYwqqJDBnEs4LobIaYiFK5o9obIVayzLYrFmCWC12XlSnFFn0+K9QBMUe9zdHsg==",
+  "success": true,
+  "projectFilePath": "D:\\ConsoleApp10\\OwnDictionary.Models\\OwnDictionary.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

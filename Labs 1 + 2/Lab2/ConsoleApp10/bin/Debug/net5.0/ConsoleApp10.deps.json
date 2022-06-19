@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp10/1.0.0": {
+        "dependencies": {
+          "OwnDictionary.Models": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp10.dll": {}
+        }
+      },
+      "OwnDictionary.Models/1.0.0": {
+        "runtime": {
+          "OwnDictionary.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OwnDictionary.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
