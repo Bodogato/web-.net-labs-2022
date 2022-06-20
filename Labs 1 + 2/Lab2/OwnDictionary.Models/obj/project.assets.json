@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ConsoleApp10\\OwnDictionary.Models\\OwnDictionary.Models.csproj",
+      "projectUniqueName": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab2\\OwnDictionary.Models\\OwnDictionary.Models.csproj",
       "projectName": "OwnDictionary.Models",
-      "projectPath": "D:\\ConsoleApp10\\OwnDictionary.Models\\OwnDictionary.Models.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\ConsoleApp10\\OwnDictionary.Models\\obj\\",
+      "projectPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab2\\OwnDictionary.Models\\OwnDictionary.Models.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab2\\OwnDictionary.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,22 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

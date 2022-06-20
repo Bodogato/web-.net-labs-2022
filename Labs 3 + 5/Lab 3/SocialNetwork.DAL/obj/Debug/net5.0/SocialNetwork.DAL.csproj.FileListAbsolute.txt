@@ -1,0 +1,12 @@
+D:\ConsoleApp11\SocialNetwork.DAL\bin\Debug\net5.0\SocialNetwork.DAL.deps.json
+D:\ConsoleApp11\SocialNetwork.DAL\bin\Debug\net5.0\SocialNetwork.DAL.dll
+D:\ConsoleApp11\SocialNetwork.DAL\bin\Debug\net5.0\ref\SocialNetwork.DAL.dll
+D:\ConsoleApp11\SocialNetwork.DAL\bin\Debug\net5.0\SocialNetwork.DAL.pdb
+D:\ConsoleApp11\SocialNetwork.DAL\obj\Debug\net5.0\SocialNetwork.DAL.csproj.AssemblyReference.cache
+D:\ConsoleApp11\SocialNetwork.DAL\obj\Debug\net5.0\SocialNetwork.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp11\SocialNetwork.DAL\obj\Debug\net5.0\SocialNetwork.DAL.AssemblyInfoInputs.cache
+D:\ConsoleApp11\SocialNetwork.DAL\obj\Debug\net5.0\SocialNetwork.DAL.AssemblyInfo.cs
+D:\ConsoleApp11\SocialNetwork.DAL\obj\Debug\net5.0\SocialNetwork.DAL.csproj.CoreCompileInputs.cache
+D:\ConsoleApp11\SocialNetwork.DAL\obj\Debug\net5.0\SocialNetwork.DAL.dll
+D:\ConsoleApp11\SocialNetwork.DAL\obj\Debug\net5.0\ref\SocialNetwork.DAL.dll
+D:\ConsoleApp11\SocialNetwork.DAL\obj\Debug\net5.0\SocialNetwork.DAL.pdb

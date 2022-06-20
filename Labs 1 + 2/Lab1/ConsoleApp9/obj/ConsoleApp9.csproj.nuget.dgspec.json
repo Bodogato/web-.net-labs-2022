@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\ConsoleApp9\\ConsoleApp9.csproj": {}
+    "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\ConsoleApp9\\ConsoleApp9.csproj": {}
   },
   "projects": {
-    "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\ConsoleApp9\\ConsoleApp9.csproj": {
+    "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\ConsoleApp9\\ConsoleApp9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\ConsoleApp9\\ConsoleApp9.csproj",
+        "projectUniqueName": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\ConsoleApp9\\ConsoleApp9.csproj",
         "projectName": "ConsoleApp9",
-        "projectPath": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\ConsoleApp9\\ConsoleApp9.csproj",
+        "projectPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\ConsoleApp9\\ConsoleApp9.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\ConsoleApp9\\obj\\",
+        "outputPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\ConsoleApp9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\MyDictionary.Models.csproj": {
-                "projectPath": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\MyDictionary.Models.csproj"
+              "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\MyDictionary.Models.csproj": {
+                "projectPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\MyDictionary.Models.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\MyDictionary.Models.csproj": {
+    "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\MyDictionary.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\MyDictionary.Models.csproj",
+        "projectUniqueName": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\MyDictionary.Models.csproj",
         "projectName": "MyDictionary.Models",
-        "projectPath": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\MyDictionary.Models.csproj",
+        "projectPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\MyDictionary.Models.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\obj\\",
+        "outputPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

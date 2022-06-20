@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\MyDictionary.Models.csproj",
+      "projectUniqueName": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\MyDictionary.Models.csproj",
       "projectName": "MyDictionary.Models",
-      "projectPath": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\MyDictionary.Models.csproj",
+      "projectPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\MyDictionary.Models.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\HappyDaysNewLife\\Лабы_Не_Мои\\ConsoleApp9\\MyDictionary.Models\\obj\\",
+      "outputPath": "D:\\HappyDaysNewLife\\Нужное для уника\\DeathItSelf\\web-.net-labs-2022\\Labs 1 + 2\\Lab1\\MyDictionary.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

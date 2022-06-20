@@ -1,0 +1,15 @@
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.csproj.AssemblyReference.cache
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.AssemblyInfoInputs.cache
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.AssemblyInfo.cs
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.csproj.CoreCompileInputs.cache
+D:\ConsoleApp11\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.BLL.deps.json
+D:\ConsoleApp11\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.BLL.dll
+D:\ConsoleApp11\SocialNetwork.BLL\bin\Debug\net5.0\ref\SocialNetwork.BLL.dll
+D:\ConsoleApp11\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.BLL.pdb
+D:\ConsoleApp11\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.DAL.dll
+D:\ConsoleApp11\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.DAL.pdb
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.csproj.CopyComplete
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.dll
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\ref\SocialNetwork.BLL.dll
+D:\ConsoleApp11\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.pdb
